@@ -1,0 +1,1 @@
+{"Up":"J","Down":"K","Left":"L","Right":"Z","Interact":"Mouse0","Save":""}
